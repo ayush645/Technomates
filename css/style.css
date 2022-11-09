@@ -425,10 +425,11 @@ ul.nav li.active a:before {
 	margin-top:10px;
 	padding: 1% 0%;
 }
-.bg-sec h3 {
+.bg-sec h2 {
 	color:#FFFFFF;
 	text-transform:none;
 	font-weight:bolder;
+
 }
 .bg-sec p {
 	color:#FFFFFF;
