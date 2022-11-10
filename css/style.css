@@ -805,6 +805,7 @@ ul.nav li.active a:before {
 .team-sec {
 	border:1px solid #eee;
 }
+
 .team-main-sec:hover .team-sec {
 	border:1px solid #fff;
 	-webkit-transition-duration: 0.3s;
@@ -845,6 +846,9 @@ ul.nav li.active a:before {
 }
 .team-desc ul.team-social-icon li a i.fa:hover.fa-google-plus {
 	color:#dc4e41;
+}
+.img-resp{
+	height: 200px;
 }
 /*Testimonials-stylesheets-include-here*/
 #testimonials {
