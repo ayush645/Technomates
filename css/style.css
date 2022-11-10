@@ -91,7 +91,7 @@ color: #FFF;
 /* ========================================================================
   Hover End 
  ========================================================================== */
-#preloader {
+/* #preloader {
 	background: #FFF;
 	bottom: 0;
 	left: 0;
@@ -117,7 +117,7 @@ color: #FFF;
 	margin: 0;
 	text-align: center;
 	top: 65%;
-}
+} */
 .parallex {
 	background-attachment:fixed;
 	background-position:center;
