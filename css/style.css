@@ -22,7 +22,7 @@
  font-style: normal;
 }
 body {
-	font-family: 'helvetica_ce_55_romanregular';
+	font-family: 'open_sansregular';
 }
 /*for-section-text-start-here*/
 ::selection {
@@ -136,7 +136,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
- font-family: 'helvetica_ce_55_romanregular';
+ font-family: 'open_sansregular';
 }
 h1 {
 	color:#fff;
