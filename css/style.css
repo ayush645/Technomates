@@ -231,6 +231,20 @@ a.btn-send:hover {
 	-o-transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 }
+
+/*left side menu callout text css snippet*/
+
+.pa-callout-left {
+	font-size: 8px;
+	margin-right: 4px;
+	position: relative;
+	top: -10px;
+	margin-bottom: 13px;
+	color: #ffffff;
+	background-color: #e03574;
+	padding: 3px 4px;
+	border-radius: 3px;
+	}
 /*Navigation-stylesheets-include-here*/
 .navbar-default {
 	background:rgba(248, 248, 248, 0);
@@ -1388,4 +1402,7 @@ color:#fff;
 
 
   }
+
+  
+  
 /*Basic-Stylesheets-End-Here*/
