@@ -239,7 +239,7 @@ a.btn-send:hover {
 }
 a.navbar-brand img {
 	position:relative;
-	top:9px;
+	width: 100px;
 }
 #menu {
 	position:absolute;
