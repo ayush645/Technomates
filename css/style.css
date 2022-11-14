@@ -1409,8 +1409,8 @@ color:#fff;
 	display: flex;
   }
   .card{
-	height: 500px;
-	width: 500px;
+	height: 420px;
+	width: 420px;
 	perspective: 1000px;
 	margin: 30px;
   }
@@ -1433,10 +1433,13 @@ color:#fff;
 	transform: rotateY(180deg);
 	background-color: rgb(236, 243, 245);
 	color: white;
-	text-align: center;
 	/* border-radius: 40px; */
   }
-  
+  .back p{
+	margin:12px 12px;
+	font-family: 'open_sansregular';
+
+  }
   
   
   
